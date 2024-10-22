@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channel>
+	<title language="English">XML Daily Foreign Exchange Rates for U.S. Dollar (USD)</title>
+	<description>XML Daily foreign exchange rates for U.S. Dollar (USD). Published at Wed, 30 Jan 2019 00:00:01 GMT.</description>
+	<language>en</language>
+	<baseCurrency>USD</baseCurrency>
+	<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+	<lastBuildDate>Wed, 30 Jan 2019 00:00:01 GMT</lastBuildDate>
+	<item>
+		<title>1 USD = 0.87482055 EUR</title>
+		<description>1 U.S. Dollar = 0.87482055 Euro</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.87482055</exchangeRate>
+		<inverseRate>1.14309157</inverseRate>
+		<inverseDescription>1 Euro = 1.14309157 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 0.75996359 GBP</title>
+		<description>1 U.S. Dollar = 0.75996359 U.K. Pound Sterling</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.75996359</exchangeRate>
+		<inverseRate>1.31585252</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 1.31585252 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 1.32586985 CAD</title>
+		<description>1 U.S. Dollar = 1.32586985 Canadian Dollar</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>1.32586985</exchangeRate>
+		<inverseRate>0.75422184</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 0.75422184 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 109.36180647 JPY</title>
+		<description>1 U.S. Dollar = 109.36180647 Japanese Yen</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>109.36180647</exchangeRate>
+		<inverseRate>0.00914396</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.00914396 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 0.99294471 CHF</title>
+		<description>1 U.S. Dollar = 0.99294471 Swiss Franc</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.99294471</exchangeRate>
+		<inverseRate>1.00710542</inverseRate>
+		<inverseDescription>1 Swiss Franc = 1.00710542 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 1.39607302 AUD</title>
+		<description>1 U.S. Dollar = 1.39607302 Australian Dollar</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>1.39607302</exchangeRate>
+		<inverseRate>0.71629491</inverseRate>
+		<inverseDescription>1 Australian Dollar = 0.71629491 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 103.50827855 RSD</title>
+		<description>1 U.S. Dollar = 103.50827855 Serbian Dinar</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>103.50827855</exchangeRate>
+		<inverseRate>0.00966106</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.00966106 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 53.87307279 MKD</title>
+		<description>1 U.S. Dollar = 53.87307279 Macedonian denar</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MKD</targetCurrency>
+		<targetName>Macedonian denar</targetName>
+		<exchangeRate>53.87307279</exchangeRate>
+		<inverseRate>0.01856215</inverseRate>
+		<inverseDescription>1 Macedonian denar = 0.01856215 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 1.80201487 AWG</title>
+		<description>1 U.S. Dollar = 1.80201487 Aruban florin</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AWG</targetCurrency>
+		<targetName>Aruban florin</targetName>
+		<exchangeRate>1.80201487</exchangeRate>
+		<inverseRate>0.55493438</inverseRate>
+		<inverseDescription>1 Aruban florin = 0.55493438 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 726.27610209 MWK</title>
+		<description>1 U.S. Dollar = 726.27610209 Malawian kwacha</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MWK</targetCurrency>
+		<targetName>Malawian kwacha</targetName>
+		<exchangeRate>726.27610209</exchangeRate>
+		<inverseRate>0.00137689</inverseRate>
+		<inverseDescription>1 Malawian kwacha = 0.00137689 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 0.99512544 CUP</title>
+		<description>1 U.S. Dollar = 0.99512544 Cuban peso</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CUP</targetCurrency>
+		<targetName>Cuban peso</targetName>
+		<exchangeRate>0.99512544</exchangeRate>
+		<inverseRate>1.00489844</inverseRate>
+		<inverseDescription>1 Cuban peso = 1.00489844 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 1.71387507 BAM</title>
+		<description>1 U.S. Dollar = 1.71387507 Bosnia and Herzegovina convertible mark</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BAM</targetCurrency>
+		<targetName>Bosnia and Herzegovina convertible mark</targetName>
+		<exchangeRate>1.71387507</exchangeRate>
+		<inverseRate>0.58347310</inverseRate>
+		<inverseDescription>1 Bosnia and Herzegovina convertible mark = 0.58347310 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 118.32980953 DZD</title>
+		<description>1 U.S. Dollar = 118.32980953 Algerian Dinar</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>118.32980953</exchangeRate>
+		<inverseRate>0.00845096</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.00845096 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 0.30299894 KWD</title>
+		<description>1 U.S. Dollar = 0.30299894 Kuwaiti Dinar</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.30299894</exchangeRate>
+		<inverseRate>3.30034160</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 3.30034160 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 3.02114726 TND</title>
+		<description>1 U.S. Dollar = 3.02114726 Tunisian Dinar</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>3.02114726</exchangeRate>
+		<inverseRate>0.33100008</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 0.33100008 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 23,228.50436046 VND</title>
+		<description>1 U.S. Dollar = 23,228.50436046 Vietnamese Dong</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>23,228.50436046</exchangeRate>
+		<inverseRate>0.00004305</inverseRate>
+		<inverseDescription>1 Vietnamese Dong = 0.00004305 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 37.48152720 ARS</title>
+		<description>1 U.S. Dollar = 37.48152720 Argentine Peso</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>37.48152720</exchangeRate>
+		<inverseRate>0.02667981</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.02667981 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 21.48913043 STN</title>
+		<description>1 U.S. Dollar = 21.48913043 São Tomé and Príncipe Dobra</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>STN</targetCurrency>
+		<targetName>São Tomé and Príncipe Dobra</targetName>
+		<exchangeRate>21.48913043</exchangeRate>
+		<inverseRate>0.04653515</inverseRate>
+		<inverseDescription>1 São Tomé and Príncipe Dobra = 0.04653515 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 177.25084938 DJF</title>
+		<description>1 U.S. Dollar = 177.25084938 Djiboutian franc</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>DJF</targetCurrency>
+		<targetName>Djiboutian franc</targetName>
+		<exchangeRate>177.25084938</exchangeRate>
+		<inverseRate>0.00564172</inverseRate>
+		<inverseDescription>1 Djiboutian franc = 0.00564172 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 1,531.30860171 MMK</title>
+		<description>1 U.S. Dollar = 1,531.30860171 Myanma Kyat</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>1,531.30860171</exchangeRate>
+		<inverseRate>0.00065304</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.00065304 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 3.63208277 QAR</title>
+		<description>1 U.S. Dollar = 3.63208277 Qatari Rial</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>3.63208277</exchangeRate>
+		<inverseRate>0.27532412</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.27532412 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 10.43449831 BWP</title>
+		<description>1 U.S. Dollar = 10.43449831 Botswana Pula</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>10.43449831</exchangeRate>
+		<inverseRate>0.09583594</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.09583594 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 34.19539841 MUR</title>
+		<description>1 U.S. Dollar = 34.19539841 Mauritian Rupee</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>34.19539841</exchangeRate>
+		<inverseRate>0.02924370</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.02924370 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 1.71083532 BGN</title>
+		<description>1 U.S. Dollar = 1.71083532 Bulgarian Lev</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>1.71083532</exchangeRate>
+		<inverseRate>0.58450979</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.58450979 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 3.35359826 PEN</title>
+		<description>1 U.S. Dollar = 3.35359826 Peruvian Nuevo Sol</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>3.35359826</exchangeRate>
+		<inverseRate>0.29818718</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 0.29818718 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 2,307.80731457 VES</title>
+		<description>1 U.S. Dollar = 2,307.80731457 Venezuelan Bolivar</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>VES</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>2,307.80731457</exchangeRate>
+		<inverseRate>0.00043331</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar = 0.00043331 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 2.12280305 FJD</title>
+		<description>1 U.S. Dollar = 2.12280305 Fiji Dollar</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>2.12280305</exchangeRate>
+		<inverseRate>0.47107526</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 0.47107526 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 1,638.15961622 CDF</title>
+		<description>1 U.S. Dollar = 1,638.15961622 Congolese franc</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CDF</targetCurrency>
+		<targetName>Congolese franc</targetName>
+		<exchangeRate>1,638.15961622</exchangeRate>
+		<inverseRate>0.00061044</inverseRate>
+		<inverseDescription>1 Congolese franc = 0.00061044 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 24.28118940 HNL</title>
+		<description>1 U.S. Dollar = 24.28118940 Honduran Lempira</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>24.28118940</exchangeRate>
+		<inverseRate>0.04118414</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.04118414 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 181.53392616 LKR</title>
+		<description>1 U.S. Dollar = 181.53392616 Sri Lanka Rupee</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>181.53392616</exchangeRate>
+		<inverseRate>0.00550861</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.00550861 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 670.97938375 CLP</title>
+		<description>1 U.S. Dollar = 670.97938375 Chilean Peso</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>670.97938375</exchangeRate>
+		<inverseRate>0.00149036</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.00149036 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 8.49408589 NOK</title>
+		<description>1 U.S. Dollar = 8.49408589 Norwegian Krone</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>8.49408589</exchangeRate>
+		<inverseRate>0.11772897</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.11772897 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 6.49416782 HRK</title>
+		<description>1 U.S. Dollar = 6.49416782 Croatian Kuna</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>6.49416782</exchangeRate>
+		<inverseRate>0.15398432</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.15398432 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 1.69521256 AZN</title>
+		<description>1 U.S. Dollar = 1.69521256 Azerbaijan Manat</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>1.69521256</exchangeRate>
+		<inverseRate>0.58989652</inverseRate>
+		<inverseDescription>1 Azerbaijan Manat = 0.58989652 U.S. Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 USD = 32.43291803 NIO</title>
+		<description>1 U.S. Dollar = 32.43291803 Nicaraguan Córdoba</description>
+		<pubDate>Wed, 30 Jan 2019 00:00:01 GMT</pubDate>
+		<baseCurrency>USD</baseCurrency>
+		<baseName>U.S. Dollar</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>32.43291803</exchangeRate>
+		<inverseRate>0.03083287</inverseRate>
+		<inverseDescription>1 Nicaraguan Córdoba = 0.03083287 U.S. Dollar</inverseDescription>
+	</item>
+</channel>
