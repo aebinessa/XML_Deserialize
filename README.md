@@ -58,3 +58,11 @@ And now, add a Message Box activity after the "For Each" activity.
  After that, Set allExchRates in the Text field.
 
  And with that you are done.
+
+ ![image](https://github.com/user-attachments/assets/b07e92c3-931a-4f58-9ba2-5d4c7801c5b7)
+ ![image](https://github.com/user-attachments/assets/b5f90222-ab9a-4908-a308-2e92ef4dff9e)
+
+
+ Credits to : https://docs.uipath.com/activities/other/latest/developer/read-and-deserialize-a-xml-file
+
+
